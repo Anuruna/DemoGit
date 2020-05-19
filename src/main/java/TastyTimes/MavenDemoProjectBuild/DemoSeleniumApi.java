@@ -8,6 +8,8 @@ public class DemoSeleniumApi {
 	public void browserautomation()
 	{
 		System.out.println("browser automation");
+		
+		System.out.println("selenium automation");
 	}
 	
 	@Test
