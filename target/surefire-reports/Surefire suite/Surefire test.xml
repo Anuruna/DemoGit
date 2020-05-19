@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-NO6JG518" name="TastyTimes.MavenDemoProjectBuild.AppTest" tests="1" failures="0" timestamp="11 May 2020 04:20:55 GMT" time="0.012" errors="0">
+  <testcase name="testApp on instance testApp(TastyTimes.MavenDemoProjectBuild.AppTest)" time="0.003" classname="TastyTimes.MavenDemoProjectBuild.AppTest"/>
+</testsuite>
