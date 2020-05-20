@@ -18,6 +18,8 @@ public class DemoRestApi {
 	 public void postdata1()
 	 {
 		 System.out.println("post data Jira1");
+		 System.out.println("post data Jira2");
+		 System.out.println("post data Jira3");
 	 }
 	
 
@@ -25,5 +27,10 @@ public class DemoRestApi {
 	 public void postdata2()
 	 {
 		 System.out.println("post data Jira2");
+	 }
+	@Test
+	 public void postdata3()
+	 {
+		 System.out.println("post data Jira3");
 	 }
 }

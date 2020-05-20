@@ -17,4 +17,15 @@ public class DemoSeleniumApi {
 	 {
 		 System.out.println("elementsUI");
 	 }
+	@Test
+	 public void ui()
+	 {
+		 System.out.println("UI");
+	 }
+	
+	@Test
+	 public void appiumsui()
+	 {
+		 System.out.println("appium");
+	 }
 }
